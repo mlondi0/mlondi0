@@ -46,9 +46,8 @@ The OTHM Level 5 Extended Diploma covers 12 units across two levels:
 | [home-lab](#) | Setup notes for my practice lab environment |
 
 ## 📈 Currently Learning
-- [ ] Ethical Hacking fundamentals
-- [ ] Digital Forensics evidence handling
-- [ ] Malware Analysis basics
+- [ ] Information Technology Security
+- [ ] Principles of Computer Science
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/mlondi-mbele-1332588b
