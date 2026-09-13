@@ -35,8 +35,7 @@ The OTHM Level 5 Extended Diploma covers 12 units across two levels:
 *(Currently on: Principles of Computer Science)*
 
 ## 🛠️ Skills & Tools
-`Networking (TCP/IP, DNS, firewalls)` `Linux` `Python` `Wireshark` `Nmap` `Security+ concepts` `Risk Assessment` `Threat Modelling (STRIDE)` `SQL/Databases`
-*(Swap these for the tools you've actually used — keep it honest, it grows over time)*
+`Powershell` `Linux` 
 
 ## 📌 Pinned Projects
 | Repo | Description |
