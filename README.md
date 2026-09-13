@@ -41,9 +41,6 @@ The OTHM Level 5 Extended Diploma covers 12 units across two levels:
 | Repo | Description |
 |---|---|
 | [security-notes](https://github.com/mlondi0/security-notes) | Study notes and summaries from each unit, in my own words |
-| [ctf-writeups](#) | Walkthroughs of TryHackMe / HackTheBox rooms — vulnerability, exploit, fix |
-| [network-labs](#) | Packet captures and network configuration exercises |
-| [home-lab](#) | Setup notes for my practice lab environment |
 
 ## 📈 Currently Learning
 - [x] Information Technology Security
