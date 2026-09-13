@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Mlondi Mbele 👋
 
-<!--
-**mlondi0/mlondi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently studying the **OTHM Level 5 Extended Diploma in Cyber Security**
+🔐 Documenting my journey from networking and IT security fundamentals through to ethical hacking, digital forensics, and malware analysis
+📍 Based in South Africa | Open to entry-level / junior cybersecurity roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 About Me
+I'm building a career in cybersecurity. This profile is where I document labs, write-ups, and projects as I work through my diploma and independent study — a running log of what I'm learning and how I apply it.
+
+## 🎓 Education
+- **OTHM Level 5 Extended Diploma in Cyber Security** — in progress
+- **Higher Certificate in Information Technology** — MANCOSA
+
+## 📚 What I'm Studying
+The OTHM Level 5 Extended Diploma covers 12 units across two levels:
+
+**Foundations (Level 4)**
+- Information Technology Security
+- Principles of Computer Science
+- Algorithms and Data Structures
+- Computer Networks
+- Mathematics for Computer Science
+- Operating Systems
+
+**Specialist (Level 5)**
+- Security Testing
+- Artificial Intelligence
+- Databases
+- Digital Forensics
+- Ethical Hacking
+- Malware Analysis
+
+*(Currently on: Principles of Computer Science)*
+
+## 🛠️ Skills & Tools
+`Networking (TCP/IP, DNS, firewalls)` `Linux` `Python` `Wireshark` `Nmap` `Security+ concepts` `Risk Assessment` `Threat Modelling (STRIDE)` `SQL/Databases`
+*(Swap these for the tools you've actually used — keep it honest, it grows over time)*
+
+## 📌 Pinned Projects
+| Repo | Description |
+|---|---|
+| [security-notes](#) | Study notes and summaries from each unit, in my own words |
+| [ctf-writeups](#) | Walkthroughs of TryHackMe / HackTheBox rooms — vulnerability, exploit, fix |
+| [network-labs](#) | Packet captures and network configuration exercises |
+| [home-lab](#) | Setup notes for my practice lab environment |
+
+## 📈 Currently Learning
+- [ ] Ethical Hacking fundamentals
+- [ ] Digital Forensics evidence handling
+- [ ] Malware Analysis basics
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/mlondi-mbele-1332588b
+- Email: deonmlondi@gmail.com
+
+---
+*This profile is updated regularly as I progress through my diploma.*
+
